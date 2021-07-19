@@ -1,0 +1,40 @@
+<----- VPN5 Logging ---->
+< To Clear log file, delete all text below this line. >
+2021/07/19 14:58:57  >>  VPN5 Application Initialized
+2021/07/19 14:59:00  >>  Trying to establish a connection
+2021/07/19 14:59:01  >>  OpenPort
+2021/07/19 14:59:01  >>  PortOpened
+2021/07/19 14:59:01  >>  ConnectDevice
+2021/07/19 14:59:02  >>  DeviceConnected
+2021/07/19 14:59:02  >>  AllDevicesConnected
+2021/07/19 14:59:02  >>  Authenticate
+2021/07/19 14:59:03  >>  AuthNotify
+2021/07/19 14:59:03  >>  AuthProject
+2021/07/19 14:59:05  >>  AuthNotify
+2021/07/19 14:59:05  >>  Projected
+2021/07/19 14:59:05  >>  AuthNotify
+2021/07/19 14:59:05  >>  Authenticated
+2021/07/19 14:59:05  >>  ApplySettings
+2021/07/19 14:59:05  >>  Connected
+2021/07/19 14:59:05  >>  Connection Established to a LT2P Server: (219.100.37.58) with Username: (vpn) and Password: (vpn) and Pre-Shared Key: (vpn)
+2021/07/19 14:59:06  >>  Trying to disconnect a connection
+2021/07/19 14:59:08  >>  Successfully diconnected live connection
+2021/07/19 14:59:08  >>  Trying to establish a connection
+2021/07/19 14:59:08  >>  OpenPort
+2021/07/19 14:59:08  >>  OpenPort
+2021/07/19 14:59:08  >>  Trying to disconnect a connection
+2021/07/19 14:59:09  >>  Successfully diconnected live connection
+2021/07/19 14:59:09  >>  Trying to establish a connection
+2021/07/19 14:59:09  >>  OpenPort
+2021/07/19 14:59:09  >>  OpenPort
+2021/07/19 14:59:09  >>  OpenPort
+2021/07/19 14:59:09  >>  PortOpened
+2021/07/19 14:59:09  >>  PortOpened
+2021/07/19 14:59:09  >>  PortOpened
+2021/07/19 14:59:09  >>  ConnectDevice
+2021/07/19 14:59:09  >>  ConnectDevice
+2021/07/19 14:59:09  >>  ConnectDevice
+2021/07/19 14:59:11  >>  VPN5 Application Closing
+2021/07/19 14:59:23  >>  VPN5 Application Initialized
+2021/07/19 14:59:30  >>  VPN5 Application Initialized
+2021/07/19 14:59:36  >>  VPN5 Application Closing

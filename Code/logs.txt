@@ -1,0 +1,248 @@
+
+2021/07/19 13:40:45  >>  VPN5 Application Initialized
+2021/07/19 13:40:57  >>  VPN5 Application Closing
+2021/07/19 14:07:46  >>  VPN5 Application Initialized
+2021/07/19 14:07:52  >>  VPN5 Application Closing
+2021/07/19 14:11:11  >>  VPN5 Application Initialized
+2021/07/19 14:11:20  >>  VPN5 Application Closing
+2021/07/19 14:12:55  >>  VPN5 Application Initialized
+2021/07/19 14:13:11  >>  Trying to establish a connection
+2021/07/19 14:13:11  >>  Either your internet Or server (http: //www.google.com) used to check internet connectivity is down.
+2021/07/19 14:13:22  >>  Trying to establish a connection
+2021/07/19 14:13:26  >>  OpenPort
+2021/07/19 14:13:26  >>  Trying to disconnect a connection
+2021/07/19 14:13:27  >>  Successfully diconnected live connection
+2021/07/19 14:13:28  >>  Trying to establish a connection
+2021/07/19 14:13:28  >>  OpenPort
+2021/07/19 14:13:28  >>  OpenPort
+2021/07/19 14:13:28  >>  PortOpened
+2021/07/19 14:13:28  >>  PortOpened
+2021/07/19 14:13:28  >>  ConnectDevice
+2021/07/19 14:13:28  >>  ConnectDevice
+2021/07/19 14:13:29  >>  DeviceConnected
+2021/07/19 14:13:29  >>  DeviceConnected
+2021/07/19 14:13:29  >>  AllDevicesConnected
+2021/07/19 14:13:29  >>  AllDevicesConnected
+2021/07/19 14:13:29  >>  Authenticate
+2021/07/19 14:13:29  >>  Authenticate
+2021/07/19 14:13:30  >>  AuthNotify
+2021/07/19 14:13:30  >>  AuthNotify
+2021/07/19 14:13:30  >>  AuthProject
+2021/07/19 14:13:30  >>  AuthProject
+2021/07/19 14:13:33  >>  AuthNotify
+2021/07/19 14:13:33  >>  AuthNotify
+2021/07/19 14:13:33  >>  Projected
+2021/07/19 14:13:33  >>  Projected
+2021/07/19 14:13:33  >>  AuthNotify
+2021/07/19 14:13:33  >>  AuthNotify
+2021/07/19 14:13:33  >>  Authenticated
+2021/07/19 14:13:33  >>  Authenticated
+2021/07/19 14:13:33  >>  ApplySettings
+2021/07/19 14:13:33  >>  ApplySettings
+2021/07/19 14:13:33  >>  Connected
+2021/07/19 14:13:33  >>  Connected
+2021/07/19 14:13:33  >>  Connection Established to a LT2P Server: (219.100.37.88) with Username: (vpn) and Password: (vpn) and Pre-Shared Key: (vpn)
+2021/07/19 14:13:33  >>  Connection Established to a LT2P Server: (219.100.37.88) with Username: (vpn) and Password: (vpn) and Pre-Shared Key: (vpn)
+2021/07/19 14:13:42  >>  Trying to disconnect a connection
+2021/07/19 14:13:44  >>  Successfully diconnected live connection
+2021/07/19 14:13:50  >>  VPN5 Application Closing
+2021/07/19 14:16:03  >>  VPN5 Application Initialized
+2021/07/19 14:16:20  >>  Trying to establish a connection
+2021/07/19 14:16:22  >>  OpenPort
+2021/07/19 14:16:22  >>  PortOpened
+2021/07/19 14:16:22  >>  ConnectDevice
+2021/07/19 14:16:23  >>  DeviceConnected
+2021/07/19 14:16:23  >>  AllDevicesConnected
+2021/07/19 14:16:23  >>  Authenticate
+2021/07/19 14:16:24  >>  AuthNotify
+2021/07/19 14:16:24  >>  AuthProject
+2021/07/19 14:16:26  >>  AuthNotify
+2021/07/19 14:16:26  >>  Projected
+2021/07/19 14:16:27  >>  AuthNotify
+2021/07/19 14:16:27  >>  Authenticated
+2021/07/19 14:16:27  >>  ApplySettings
+2021/07/19 14:16:27  >>  Connected
+2021/07/19 14:16:27  >>  Connection Established to a LT2P Server: (219.100.37.58) with Username: (vpn) and Password: (vpn) and Pre-Shared Key: (vpn)
+2021/07/19 14:16:28  >>  Trying to disconnect a connection
+2021/07/19 14:16:29  >>  Successfully diconnected live connection
+2021/07/19 14:16:29  >>  Trying to establish a connection
+2021/07/19 14:16:29  >>  OpenPort
+2021/07/19 14:16:29  >>  OpenPort
+2021/07/19 14:16:29  >>  PortOpened
+2021/07/19 14:16:29  >>  PortOpened
+2021/07/19 14:16:29  >>  ConnectDevice
+2021/07/19 14:16:29  >>  ConnectDevice
+2021/07/19 14:16:30  >>  DeviceConnected
+2021/07/19 14:16:30  >>  DeviceConnected
+2021/07/19 14:16:30  >>  AllDevicesConnected
+2021/07/19 14:16:30  >>  AllDevicesConnected
+2021/07/19 14:16:30  >>  Authenticate
+2021/07/19 14:16:30  >>  Authenticate
+2021/07/19 14:16:31  >>  Trying to disconnect a connection
+2021/07/19 14:16:32  >>  Successfully diconnected live connection
+2021/07/19 14:18:37  >>  Trying to establish a connection
+2021/07/19 14:18:37  >>  OpenPort
+2021/07/19 14:18:37  >>  OpenPort
+2021/07/19 14:18:37  >>  OpenPort
+2021/07/19 14:18:37  >>  PortOpened
+2021/07/19 14:18:37  >>  PortOpened
+2021/07/19 14:18:37  >>  PortOpened
+2021/07/19 14:18:37  >>  ConnectDevice
+2021/07/19 14:18:37  >>  ConnectDevice
+2021/07/19 14:18:37  >>  ConnectDevice
+2021/07/19 14:19:15  >>  Trying to disconnect a connection
+2021/07/19 14:19:16  >>  Successfully diconnected live connection
+2021/07/19 14:19:19  >>  Trying to establish a connection
+2021/07/19 14:19:19  >>  OpenPort
+2021/07/19 14:19:19  >>  OpenPort
+2021/07/19 14:19:19  >>  OpenPort
+2021/07/19 14:19:19  >>  OpenPort
+2021/07/19 14:19:19  >>  PortOpened
+2021/07/19 14:19:19  >>  PortOpened
+2021/07/19 14:19:19  >>  PortOpened
+2021/07/19 14:19:19  >>  PortOpened
+2021/07/19 14:19:19  >>  ConnectDevice
+2021/07/19 14:19:19  >>  ConnectDevice
+2021/07/19 14:19:19  >>  ConnectDevice
+2021/07/19 14:19:19  >>  ConnectDevice
+2021/07/19 14:19:23  >>  Trying to disconnect a connection
+2021/07/19 14:19:24  >>  Successfully diconnected live connection
+2021/07/19 14:19:24  >>  Trying to establish a connection
+2021/07/19 14:19:24  >>  OpenPort
+2021/07/19 14:19:24  >>  OpenPort
+2021/07/19 14:19:24  >>  OpenPort
+2021/07/19 14:19:24  >>  OpenPort
+2021/07/19 14:19:24  >>  OpenPort
+2021/07/19 14:19:24  >>  PortOpened
+2021/07/19 14:19:24  >>  PortOpened
+2021/07/19 14:19:24  >>  PortOpened
+2021/07/19 14:19:24  >>  PortOpened
+2021/07/19 14:19:24  >>  PortOpened
+2021/07/19 14:19:24  >>  ConnectDevice
+2021/07/19 14:19:24  >>  ConnectDevice
+2021/07/19 14:19:24  >>  ConnectDevice
+2021/07/19 14:19:24  >>  ConnectDevice
+2021/07/19 14:19:24  >>  ConnectDevice
+2021/07/19 14:19:45  >>  ConnectDevice
+2021/07/19 14:19:45  >>  ConnectDevice
+2021/07/19 14:19:45  >>  ConnectDevice
+2021/07/19 14:19:45  >>  ConnectDevice
+2021/07/19 14:19:45  >>  ConnectDevice
+2021/07/19 14:20:19  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:20:20  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:20:20  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:20:21  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:20:21  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:20:26  >>  Trying to establish a connection
+2021/07/19 14:20:26  >>  OpenPort
+2021/07/19 14:20:26  >>  OpenPort
+2021/07/19 14:20:26  >>  OpenPort
+2021/07/19 14:20:26  >>  OpenPort
+2021/07/19 14:20:26  >>  OpenPort
+2021/07/19 14:20:26  >>  OpenPort
+2021/07/19 14:20:26  >>  PortOpened
+2021/07/19 14:20:26  >>  PortOpened
+2021/07/19 14:20:26  >>  PortOpened
+2021/07/19 14:20:26  >>  PortOpened
+2021/07/19 14:20:26  >>  PortOpened
+2021/07/19 14:20:26  >>  PortOpened
+2021/07/19 14:20:26  >>  ConnectDevice
+2021/07/19 14:20:26  >>  ConnectDevice
+2021/07/19 14:20:26  >>  ConnectDevice
+2021/07/19 14:20:26  >>  ConnectDevice
+2021/07/19 14:20:26  >>  ConnectDevice
+2021/07/19 14:20:26  >>  ConnectDevice
+2021/07/19 14:20:45  >>  Trying to disconnect a connection
+2021/07/19 14:20:46  >>  Successfully diconnected live connection
+2021/07/19 14:21:46  >>  Trying to establish a connection
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  OpenPort
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  PortOpened
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:21:46  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:07  >>  ConnectDevice
+2021/07/19 14:22:12  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:22:41  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:24:37  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:24:37  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:24:38  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:24:38  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:24:38  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:24:43  >>  Trying to establish a connection
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  OpenPort
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  PortOpened
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:24:44  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:05  >>  ConnectDevice
+2021/07/19 14:25:08  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:09  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:09  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:09  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:09  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:10  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:10  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:25:10  >>  DotRas.RasDialException: The network connection between your computer and the VPN server was interrupted.  This can be caused by a problem in the VPN transmission and is commonly the result of internet latency or simply that your VPN server has reached capacity.  Please try to reconnect to the VPN server.  If this problem persists, contact the VPN administrator and analyze quality of network connectivity.
+2021/07/19 14:27:32  >>  VPN5 Application Initialized
+2021/07/19 14:48:36  >>  VPN5 Application Initialized
+2021/07/19 14:49:02  >>  VPN5 Application Closing
+2021/07/19 14:49:48  >>  VPN5 Application Initialized
+2021/07/19 14:50:10  >>  VPN5 Application Closing
+2021/07/19 14:50:58  >>  VPN5 Application Initialized
+2021/07/19 14:51:17  >>  VPN5 Application Closing
+2021/07/19 14:51:43  >>  VPN5 Application Initialized
+2021/07/19 14:52:07  >>  VPN5 Application Closing
+2021/07/19 14:52:44  >>  VPN5 Application Initialized
+2021/07/19 14:53:17  >>  VPN5 Application Closing
+2021/07/19 14:53:32  >>  VPN5 Application Initialized
+2021/07/19 14:53:38  >>  VPN5 Application Closing
+2021/07/19 14:53:48  >>  VPN5 Application Initialized
+2021/07/19 14:53:54  >>  VPN5 Application Closing
